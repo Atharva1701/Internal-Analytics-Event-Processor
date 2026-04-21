@@ -126,8 +126,7 @@ CREATE TABLE analytics_events (
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/atharvapatil/analytics-event-processor.git
-cd analytics-event-processor
+git clone https://github.com/Atharva1701/Internal-Analytics-Event-Processor.git
 ```
 
 ---
